@@ -1,0 +1,45 @@
+_repo: Meren-urhoja-Kertomus-suurilta-matalikoilta_53585
+_version: 0.0.1
+alternative_title: Captains Courageous. Finnish
+contributor:
+  translator:
+    agent_name: Jaakkola, Väinö
+    alias: Jaakkola, Vaino
+    birthdate: 1888
+    deathdate: 1942
+    gutenberg_agent_id: '40868'
+    url: http://www.gutenberg.org/2009/agents/40868
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_issued: '2016-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53585'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bildungsromans'
+- !lcsh 'Rescues -- Fiction'
+- !lcsh 'Grand Banks of Newfoundland -- Fiction'
+- !lcsh 'Fishing boats -- Fiction'
+- !lcsh 'Teenage boys -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Children of the rich -- Fiction'
+- !lcsh 'Fishers -- Fiction'
+- !lcsh 'Sea stories'
+- !lcsh 'Saltwater fishing -- Fiction'
+- GITenberg
+title: 'Meren urhoja: Kertomus suurilta matalikoilta'
+url: http://www.gutenberg.org/ebooks/53585
