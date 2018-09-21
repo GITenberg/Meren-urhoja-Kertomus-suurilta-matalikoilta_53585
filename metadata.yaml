@@ -1,5 +1,5 @@
 _repo: Meren-urhoja-Kertomus-suurilta-matalikoilta_53585
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Captains Courageous. Finnish
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     deathdate: 1942
     gutenberg_agent_id: '40868'
     url: http://www.gutenberg.org/2009/agents/40868
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kipling, Rudyard
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/132
     wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53585#Meren-urhoja-Kertomus-suurilta-matalikoilta
 gutenberg_issued: '2016-11-23'
 gutenberg_type: Text
 identifiers:
